@@ -1,0 +1,16 @@
+#include<stdio.h>
+#define max 100
+
+int mat[max][max]
+
+int main(){
+int num,i,j;
+
+scanf("%d",&num);
+for(i=0;i<num;i++){
+for(=0;j<num;j++){
+scanf("%d",&mat[i][j]);
+}
+}
+return 0;
+}
