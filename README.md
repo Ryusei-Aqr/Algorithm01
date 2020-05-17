@@ -1,2 +1,2 @@
-# Algorithm01
+# Algorithm
 Algorithm&amp;DataStructure
